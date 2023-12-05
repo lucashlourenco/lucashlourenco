@@ -3,7 +3,7 @@
 - 🌱 Estou estudando Análise e Desenvolvimento de Sistemas
 - 📫 Meu email para contato: lucas.h3nr1qu3@hotmail.com
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashlourenco&show_icons=true&theme=dracula)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashlourenco&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

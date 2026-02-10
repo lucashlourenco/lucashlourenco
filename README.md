@@ -1,7 +1,7 @@
 ### Olá, eu sou o Lucas!
 
 - 🌱 Estou estudando Análise e Desenvolvimento de Sistemas 5/5
-- 📫 Meu email para contato: lucashlourencos@hotmail.com
+- 📫 Meu email para contato: lucashlourencos@gmail.com
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashlourenco&show_icons=true&theme=darcula)
 
